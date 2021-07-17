@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b1410df.chunk.css",
+    "main.js": "/static/js/main.e7b0ae66.chunk.js",
+    "main.js.map": "/static/js/main.e7b0ae66.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4a81e16d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4a81e16d.js.map",
+    "static/js/2.d4d412a4.chunk.js": "/static/js/2.d4d412a4.chunk.js",
+    "static/js/2.d4d412a4.chunk.js.map": "/static/js/2.d4d412a4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6b1410df.chunk.css.map": "/static/css/main.6b1410df.chunk.css.map",
+    "static/js/2.d4d412a4.chunk.js.LICENSE.txt": "/static/js/2.d4d412a4.chunk.js.LICENSE.txt",
+    "static/media/5 (2).745617c7.png": "/static/media/5 (2).745617c7.png",
+    "static/media/Nlogo.7a545ef1.png": "/static/media/Nlogo.7a545ef1.png",
+    "static/media/index.css": "/static/media/doctorf.be325b07.jpg",
+    "static/media/doctor.f2f02d36.png": "/static/media/doctor.f2f02d36.png",
+    "static/media/trans-logo.32c44a26.png": "/static/media/trans-logo.32c44a26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a81e16d.js",
+    "static/js/2.d4d412a4.chunk.js",
+    "static/css/main.6b1410df.chunk.css",
+    "static/js/main.e7b0ae66.chunk.js"
+  ]
+}
